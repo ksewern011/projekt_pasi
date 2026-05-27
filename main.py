@@ -3,7 +3,7 @@ from services import *
 
 def main():
 
-    customer1 = Customer("Jan Kowalski")
+    customer1 = Customer("Jan" , "Kowalski" , "12.02.1990", "Jkow@mail.com")
 
 
 
@@ -12,3 +12,4 @@ def main():
 
 if True:
     main()
+

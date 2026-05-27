@@ -1,5 +1,5 @@
 
-class Customer
+class Customer :
     def __init__(self, name, surname, birth_date, email):
         self.name = name
         self.surname = surname
