@@ -3,6 +3,6 @@ class Client:
         self.name = name
 
     def order_transport(self, service):
-        print(f"{self.name} złożył zamówienie")
+        print(f"\n{self.name} złożył zamówienie")
         service.order_transport()
 
