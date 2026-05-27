@@ -10,7 +10,7 @@ class Customer
 
 
 def order_transport(self, service):
-    services.order_transport()
+    services.order_transport(self, service)
     print(self.name)
     print(self.surname)
     print(self.birth_date)
