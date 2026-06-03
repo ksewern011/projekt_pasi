@@ -1,2 +1,2 @@
-# projekt_pasi
-projekt zaliczeniowy
+# Projekt zaliczeniowy - Programowanie Algorytmów Sztucznej Inteligecji
+## aut
