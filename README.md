@@ -13,6 +13,8 @@ Program ten przykładowo pokazuje dostępność wybranej usługi, czas potrzebny
 5. Implementacja klas konkretnych, gdzie punkt 3. oraz 4. służą, aby dostarczyć wartości własne opisując dany środek transportu.
 6. Posiadanie pliku głównego uruchamiającego aplikację.
 
+  
+
 
  
 
