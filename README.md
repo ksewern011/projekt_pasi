@@ -5,10 +5,10 @@ Niniejszy projekt ma za zadanie przedstawić program oferujący potencjalnym kli
 Wyboru tego można dokonać poprzez, na przykład, ilość czasu, która zajmuje dana trasa do przebycia, pod warunkiem, iż wybrany rodzaj pojazdu jest dostępny.
 
 **Cechy projektu**
-1. Zastosowanie implementacji wzorca proejktowego *Factory Method* (tak zwanej *Metody Fabryki*).
-2. Składa się z trech modułów (*services*, *clients*, *transport*).
-3. Implementacja klas abstrakcyjcnych.
-4. Implementacja klas konkretnych, gdie punkt 3. oraz 4. służą, aby dostarczyć wartości własne opsiując dany środek transportu.
+1. Zastosowanie implementacji wzorca projektowego *Factory Method* (tak zwanej *Metody Fabryki*).
+2. Składa się z trzech modułów (*services*, *clients*, *transport*).
+3. Implementacja klas abstrakcyjnych.
+4. Implementacja klas konkretnych, gdzie punkt 3. oraz 4. służą, aby dostarczyć wartości własne opisując dany środek transportu.
 5. Posiadanie pliku głównego uruchamiającego aplikację.
 
 
