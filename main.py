@@ -8,6 +8,7 @@ def main():
     bike_service = BikeService()
 
 
+
     client1.order_transport(bike_service)
     client2.order_transport(bike_service)
 
