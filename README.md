@@ -1,2 +1,4 @@
 # Projekt zaliczeniowy - Programowanie Algorytmów Sztucznej Inteligecji
-## aut
+## Autorzy - Mateus Sakiewicz, Kajetan Seweryn
+
+
