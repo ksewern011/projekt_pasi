@@ -1,5 +1,12 @@
 # Projekt zaliczeniowy - Programowanie Algorytmów Sztucznej Inteligecji
 ## Autorzy - Mateus Sakiewicz, Kajetan Seweryn
 
-Niniejszy projekt ma za zadanie przedstawić program oferujący potencjalnym klientom możliwość wyboru danej usługi transportowej 
-ododood
+Niniejszy projekt ma za zadanie przedstawić program oferujący potencjalnym klientom możliwość wyboru danej usługi transportowej.
+Wyboru tego można dokonać poprzez na przykład - ilość czasu, który zajmuje dana trasa do przebycia, pod warunkiem, iż wybrany rodzaj pojazdu jest dostepny.
+
+**Cechy projektu**
+1. Zastosowanie implementacji wzorca proejktowego *Factory Method* (tak zwanej *Metody Fabryki*).
+2. Składa się z trech modułów (*services*, *clients*, *transport*).
+3. Implementacja klas abstrakcyjcnych.
+4. Implementacja klas konkretnych, gdie punkt 3. oraz 4. służa, aby dostarczyć wartości własne opsiując dany środek transportu. 
+
