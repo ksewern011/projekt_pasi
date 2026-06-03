@@ -8,5 +8,9 @@ Wyboru tego można dokonać poprzez na przykład - ilość czasu, który zajmuje
 1. Zastosowanie implementacji wzorca proejktowego *Factory Method* (tak zwanej *Metody Fabryki*).
 2. Składa się z trech modułów (*services*, *clients*, *transport*).
 3. Implementacja klas abstrakcyjcnych.
-4. Implementacja klas konkretnych, gdie punkt 3. oraz 4. służa, aby dostarczyć wartości własne opsiując dany środek transportu. 
+4. Implementacja klas konkretnych, gdie punkt 3. oraz 4. służa, aby dostarczyć wartości własne opsiując dany środek transportu.
+5. Posiadanie pliku głównego uruchamiającego aplikację.
+
+
+ 
 
