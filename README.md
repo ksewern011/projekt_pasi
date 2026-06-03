@@ -10,3 +10,7 @@ Wyboru tego można dokonać poprzez, na przykład, ilość czasu, która zajmuje
 3. Implementacja klas abstrakcyjnych.
 4. Implementacja klas konkretnych, gdzie punkt 3. oraz 4. służą, aby dostarczyć wartości własne opisując dany środek transportu.
 5. Posiadanie pliku głównego uruchamiającego aplikację.
+
+
+ 
+
