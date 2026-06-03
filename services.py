@@ -27,4 +27,17 @@ class BikeService(TransportService):
     def transport_name(self):
         return "Bike"
 
-            
+class TaxiService(TransportService):
+    def create_transport(self):
+        return Taxi()
+
+    def transport_name(self):
+        return "Taxi"
+
+class ScooterService(TransportService):
+    def create_transport(self):
+        return Scooter()
+
+    def transport_name(self):
+        return "Scooter"
+
