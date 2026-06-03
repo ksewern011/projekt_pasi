@@ -42,7 +42,6 @@ class TaxiService(TransportService):
         return "Taxi"
 
 
-
 class ScooterService(TransportService):
     def create_transport(self):
         return Scooter()
